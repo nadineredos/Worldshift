@@ -209,4 +209,4 @@ WorldShift is offered as a complete free version with all features and updates i
 Dive into the action and download WorldShift today to experience thrilling strategy gameplay like never before!
 
 ---
-**Last updated:** 2026-11-11 10:05:26 UTC
+**Last updated:** 2026-11-11 18:14:36 UTC
